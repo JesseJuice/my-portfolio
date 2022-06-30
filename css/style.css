@@ -1,0 +1,110 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.btn-danger{
+	background-color: #9417e2 !important;
+}
+
+.text-danger{
+	color: #9417e2 !important;
+}
+
+#home{
+	background: linear-gradient(100deg, rgba(226, 23, 203, 0.8) 0%, rgba(148, 23, 226, 0.8) 50%);
+}
+
+/** background-color: #9417e2; **/
+
+h1{
+	color: whitesmoke;
+}
+
+h2{
+	color: #67109d;
+}
+
+.hero-name{
+	font-size: 70px;
+}
+
+.designation{
+	color: whitesmoke;
+}
+
+
+.abt-img{
+	height: 50%;
+}
+
+.abt-icon{
+	color: #9417e2;
+	font-size: 20px;
+}
+
+
+.ciit{
+	color: #9417e2;
+	font-weight: bold;
+}
+
+.list-item{
+	list-style-type: none;
+}
+
+.details{
+   font-weight: bold;     
+}
+
+.socials{
+	color: #9417e2;
+	font-size: 55px;
+}
+
+.icon-fb:hover{
+	color: #ff00ff;
+	transition: 0.5s;
+}
+
+.icon-twt:hover{
+	color: #ff00ff;
+	transition: 0.5s;
+}
+
+.icon-ig:hover{
+	color: #ff00ff;
+	transition: 0.5s;
+}
+
+.icon-gh:hover{
+	color: #ff00ff;
+	transition: 0.5s;
+}
+
+.skills{
+	color: #9417e2;
+}
+
+
+.profile-img{
+	border-radius: 50%;
+	border: solid;
+	border-width: 5px;
+	border-color: whitesmoke;
+}
+
+.btn:focus{
+	outline: none;
+	box-shadow: none;
+}
+
+.btn-success{
+	background: #ff00ff !important;
+}
+
+.btn-primary{
+	background: #9417e2 !important;
+}
+
